@@ -15,3 +15,7 @@ When `IClientState.IsGPosing` flips on, the plugin captures the current `DepthOf
 ## Build
 
 Open `DisableDoF.sln` and build the solution with the .NET 10 SDK installed. The packaged plugin output lands under `DisableDoF/bin/x64/<Configuration>/DisableDoF/`.
+
+## Custom Repo URL
+
+`https://raw.githubusercontent.com/ShiftyKiwi/DisableDoF/main/pluginmaster.json`
