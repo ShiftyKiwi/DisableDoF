@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/14.0.2">
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <AssemblyName>DisableDoF</AssemblyName>
+    <RootNamespace>DisableDoF</RootNamespace>
+    <Version>1.0.0.0</Version>
+    <PackageProjectUrl>https://github.com/ShiftyKiwi/DisableDoF</PackageProjectUrl>
+    <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
+    <DalamudApiLevel>14</DalamudApiLevel>
+    <LangVersion>14.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+</Project>

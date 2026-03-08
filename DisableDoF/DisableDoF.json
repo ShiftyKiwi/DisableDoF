@@ -1,0 +1,13 @@
+{
+  "Author": "ShiftyKiwi",
+  "Name": "Disable DoF",
+  "Punchline": "Turns Group Pose depth of field off when GPose starts.",
+  "Description": "Automatically disables the GPose depth-of-field toggle on entry, then restores your previous graphics setting when you leave Group Pose.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "gpose",
+    "camera",
+    "photography",
+    "ui"
+  ]
+}
