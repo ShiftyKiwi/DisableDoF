@@ -4,7 +4,7 @@ DisableDoF is a minimal Dalamud plugin for Final Fantasy XIV that turns the Grou
 
 ## Compatibility
 
-- FFXIV patch 7.45 target
+- FFXIV patch 7.45 HotFix Patch 2 target
 - Dalamud API 14
 - .NET 10 SDK
 
@@ -23,3 +23,4 @@ Open `DisableDoF.sln` and build the solution with the .NET 10 SDK installed. The
 ## Custom Repo URL
 
 `https://raw.githubusercontent.com/ShiftyKiwi/DisableDoF/main/pluginmaster.json`
+

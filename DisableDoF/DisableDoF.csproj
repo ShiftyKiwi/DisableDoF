@@ -4,7 +4,7 @@
     <TargetFramework>net10.0-windows</TargetFramework>
     <AssemblyName>DisableDoF</AssemblyName>
     <RootNamespace>DisableDoF</RootNamespace>
-    <Version>1.0.1.1</Version>
+    <Version>1.0.1.2</Version>
     <PackageProjectUrl>https://github.com/ShiftyKiwi/DisableDoF</PackageProjectUrl>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
     <DalamudApiLevel>14</DalamudApiLevel>
@@ -14,3 +14,4 @@
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 </Project>
+

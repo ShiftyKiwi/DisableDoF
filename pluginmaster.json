@@ -5,7 +5,7 @@
     "Punchline": "Turns Group Pose depth of field off when GPose starts.",
     "Description": "Automatically disables the GPose depth-of-field toggle on entry, then restores your previous graphics setting when you leave Group Pose.",
     "InternalName": "DisableDoF",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.0.1.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "RepoUrl": "https://github.com/ShiftyKiwi/DisableDoF",
@@ -21,3 +21,4 @@
     "IsTestingExclusive": false
   }
 ]
+
