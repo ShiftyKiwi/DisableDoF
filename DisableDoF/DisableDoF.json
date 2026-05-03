@@ -3,7 +3,12 @@
   "Name": "Disable DoF",
   "Punchline": "Turns Group Pose depth of field off when GPose starts.",
   "Description": "Automatically disables the GPose depth-of-field toggle on entry, then restores your previous graphics setting when you leave Group Pose.",
+  "InternalName": "DisableDoF",
+  "AssemblyVersion": "1.0.1.3",
   "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "RepoUrl": "https://github.com/ShiftyKiwi/DisableDoF",
+  "Changelog": "Updated for FFXIV Patch 7.5 and Dalamud API15.",
   "Tags": [
     "gpose",
     "camera",

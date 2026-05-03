@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using Dalamud.Game.Config;
 using Dalamud.IoC;
-using Dalamud.Memory;
 using Dalamud.Plugin;
 using Dalamud.Plugin.Services;
+using Dalamud.Utility;
 using FFXIVClientStructs.FFXIV.Client.Graphics.Render;
 using FFXIVClientStructs.FFXIV.Client.UI;
 using FFXIVClientStructs.FFXIV.Component.GUI;
@@ -393,7 +393,7 @@ public sealed unsafe class Plugin : IDalamudPlugin
             return null;
         }
 
-        var textValue = MemoryHelper.ReadSeString(&textNode->NodeText).TextValue;
+        var textValue = textNode->NodeText.ExtractText();
         return string.IsNullOrWhiteSpace(textValue) ? null : textValue.Trim();
     }
 

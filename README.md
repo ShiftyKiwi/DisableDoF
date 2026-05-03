@@ -4,8 +4,8 @@ DisableDoF is a minimal Dalamud plugin for Final Fantasy XIV that turns the Grou
 
 ## Compatibility
 
-- FFXIV patch 7.45 HotFix Patch 2 target
-- Dalamud API 14
+- FFXIV patch 7.5 target
+- Dalamud API 15
 - .NET 10 SDK
 
 ## Behavior
